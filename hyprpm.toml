@@ -1,17 +1,15 @@
 [repository]  
 name = "lace-border-plugin"  
-authors = ["YourName"]  
-version = "1.0"  
-description = "Lace pattern border decoration for Hyprland"  
+authors = ["KatyaMio"]  
   
-[[plugins]]  
+[plugins.lace-border-plugin]  
 name = "lace-border-plugin"  
-authors = ["YourName"]  
+description = "Lace pattern border decoration for Hyprland"  
 version = "1.0"  
-description = "Renders lace pattern image as window border"  
+authors = ["KatyaMio"]  
 output = "liblace-border-plugin.so"  
-buildSteps = [  
+build = [  
     "cmake -B build",  
     "cmake --build build"  
 ]  
-since = "0"  # Minimum Hyprland commit
+since = 0
