@@ -2,9 +2,9 @@
 name = "lace-border-plugin"  
 authors = ["KatyaMio"]  
   
-[plugins.lace-border-plugin]  
+[[plugins]]  
 name = "lace-border-plugin"  
-description = "Lace pattern border decoration for Hyprland"  
+description = "Renders lace pattern image as window border"  
 version = "1.0"  
 authors = ["KatyaMio"]  
 output = "liblace-border-plugin.so"  
