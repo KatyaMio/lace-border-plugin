@@ -1,0 +1,3 @@
+/home/cat/lace-border-plugin/build/CMakeFiles/lace-border-plugin.dir
+/home/cat/lace-border-plugin/build/CMakeFiles/edit_cache.dir
+/home/cat/lace-border-plugin/build/CMakeFiles/rebuild_cache.dir

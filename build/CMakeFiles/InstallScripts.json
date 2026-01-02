@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/cat/lace-border-plugin/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
